@@ -11,7 +11,7 @@ Transações de pagamento online devem ser rápidas e simples, sem asteriscos ou
 
 ## Instalação e configuração
 
-1. Faça download da collection e importe para o seu postman.
+1. Importe a collection no seu Postman clicando no botão abaixo.<pre> [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/run-collection/f99492ccfd1bcfbc2be7)
 2. Crie um novo **Enviroment** e adicione as seguintes variáveis
 
  <table class="paleBlueRows">
