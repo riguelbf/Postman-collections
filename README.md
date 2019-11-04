@@ -5,8 +5,6 @@
 
 ## Aceite pagamentos com Safe2Pay
 
-O plugin do Safe2Pay para Magento permite você aceitar pagamentos via boleto bancário, cartão de crédito, débito e bitcoin diretamente na sua loja online, com rapidez, facilidade e com checkout 100% transparente.
-
 Transações de pagamento online devem ser rápidas e simples, sem asteriscos ou letras miúdas. É isso que o Safe2Pay proporciona. Feito para todos os modelos de negócios, nossas soluções ajudam a gerenciar pagamentos e recebíveis.
 
 ## Instalação e configuração
